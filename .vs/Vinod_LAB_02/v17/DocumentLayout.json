@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiz-App\\quiz.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiz-App\\quiz.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiz-App\\quiz.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quiz.css",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.css",
+              "RelativeDocumentMoniker": "Quiz-App\\quiz.css",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.css",
+              "RelativeToolTip": "Quiz-App\\quiz.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T07:24:42.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quiz.js",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.js",
+              "RelativeDocumentMoniker": "Quiz-App\\quiz.js",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.js",
+              "RelativeToolTip": "Quiz-App\\quiz.js",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAAwPkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T07:21:37.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quiz.html",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.html",
+              "RelativeDocumentMoniker": "Quiz-App\\quiz.html",
+              "ToolTip": "D:\\GreatLearning_Module\\Javascript\\Vinod_LAB_02\\Quiz-App\\quiz.html",
+              "RelativeToolTip": "Quiz-App\\quiz.html",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-19T07:21:33.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
